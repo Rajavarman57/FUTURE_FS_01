@@ -12,9 +12,9 @@ This website serves as my **digital resume and proof of work**.
 ---
 
 ## 🚀 Live Website
-🔗 https://YOUR-Rajavarman57.github.io/FUTURE_FS_01/
+🔗 [https://YOUR-Rajavarman57.github.io/FUTURE_FS_01/](https://github.com/Rajavarman57/FUTURE_FS_01/tree/main)
 
-*(Replace with your actual GitHub Pages link)*
+
 
 ---
 
